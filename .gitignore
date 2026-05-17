@@ -1,0 +1,4 @@
+# Ignore local database config with credentials
+/src/db.js
+/.env
+/.env.*
